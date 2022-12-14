@@ -1,0 +1,5 @@
+com/student/student/model/students.class
+com/student/student/service/studentService.class
+com/student/student/controller/studentController.class
+com/student/student/StudentApplication.class
+com/student/student/mapper/studentMapper.class
